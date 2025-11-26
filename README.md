@@ -1,5 +1,5 @@
 # explainable-ml-anomaly-detection
-Explainable anomaly detection for regulated ML systems
+
 
 # Explainable ML for Anomaly Detection
 
